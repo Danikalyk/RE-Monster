@@ -1,0 +1,16 @@
+C:\Users\79994\source\repos\RE-Monster\bin\Debug\RE-Monster.exe.config
+C:\Users\79994\source\repos\RE-Monster\bin\Debug\RE-Monster.exe
+C:\Users\79994\source\repos\RE-Monster\bin\Debug\RE-Monster.pdb
+C:\Users\79994\source\repos\RE-Monster\obj\Debug\RE-Monster.csproj.AssemblyReference.cache
+C:\Users\79994\source\repos\RE-Monster\obj\Debug\RE_Monster.Form1.resources
+C:\Users\79994\source\repos\RE-Monster\obj\Debug\RE_Monster.GameWindow.resources
+C:\Users\79994\source\repos\RE-Monster\obj\Debug\RE_Monster.Properties.Resources.resources
+C:\Users\79994\source\repos\RE-Monster\obj\Debug\RE-Monster.csproj.GenerateResource.cache
+C:\Users\79994\source\repos\RE-Monster\obj\Debug\RE-Monster.csproj.CoreCompileInputs.cache
+C:\Users\79994\source\repos\RE-Monster\obj\Debug\RE-Monster.exe
+C:\Users\79994\source\repos\RE-Monster\obj\Debug\RE-Monster.pdb
+C:\Users\79994\source\repos\RE-Monster\obj\Debug\RE_Monster.Attack.resources
+C:\Users\79994\source\repos\RE-Monster\bin\Debug\Database1.mdf
+C:\Users\79994\source\repos\RE-Monster\bin\Debug\Database1_log.ldf
+C:\Users\79994\source\repos\RE-Monster\obj\Debug\RE_Monster.EndGame.resources
+C:\Users\79994\source\repos\RE-Monster\obj\Debug\RE_Monster.Score.resources
